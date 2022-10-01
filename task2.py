@@ -3,3 +3,13 @@
 # Пример:
 # - [2, 3, 4, 5, 6] => [12, 15, 16];
 # - [2, 3, 5, 6] => [12, 15]
+
+data = list(map(int,input('введите список чисел через пробел: ').split()))
+print(len(data)) 
+x= len(data)
+if x % 2 == 0:
+    for i in range(data):
+          
+
+if x % 2 == 1:
+    for i in range():
